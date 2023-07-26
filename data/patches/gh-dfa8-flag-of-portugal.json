@@ -1,0 +1,87 @@
+{
+	"id": 46,
+	"name": "Flag of Portugal",
+	"description": "Portugal is a country in Southwestern Europe.\n\nThis edition of r/place was marked by a mass increase of members either on discord or Portuguese streamers.\nWe need to honor all the Portuguese and our Ally's that helped defending our masterpiece\n\nThis was our best year and next time will be even better and more remarkable.",
+	"links": {
+		"website": [
+			"https://en.wikipedia.org/wiki/Portugal",
+			"https://en.wikipedia.org/wiki/Flag_of_Portugal"
+		],
+		"subreddit": [
+			"portugal"
+		],
+		"discord": [
+			"tugaplace"
+		]
+	},
+	"path": {
+		"7-16": [
+			[
+				302,
+				233
+			],
+			[
+				302,
+				265
+			],
+			[
+				385,
+				265
+			],
+			[
+				385,
+				233
+			]
+		],
+		"17-54": [
+			[
+				281,
+				204
+			],
+			[
+				281,
+				361
+			],
+			[
+				500,
+				361
+			],
+			[
+				500,
+				204
+			]
+		],
+		"55-258": [
+			[
+				281,
+				204
+			],
+			[
+				616,
+				204
+			],
+			[
+				616,
+				361
+			],
+			[
+				281,
+				361
+			]
+		]
+	},
+	"center": {
+		"7-16": [
+			344,
+			249
+		],
+		"17-54": [
+			391,
+			283
+		],
+		"55-258": [
+			449,
+			283
+		]
+	}
+}
