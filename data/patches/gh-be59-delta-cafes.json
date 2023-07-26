@@ -1,0 +1,62 @@
+{
+	"id": 1917,
+	"name": "Delta Cafés",
+	"description": "Delta Cafés is a Portuguese coffee company.\n\nThis art piece was created based on https://younik.pt/wp-content/uploads/delta-chavena-cover-05.jpg , the designer was Fabio",
+	"links": {
+		"website": [
+			"https://deltacafes.com"
+		],
+		"subreddit": [
+			"portugal"
+		],
+		"discord": [
+			"tugaplace"
+		]
+	},
+	"path": {
+		"203-258": [
+			[
+				298,
+				352
+			],
+			[
+				300,
+				336
+			],
+			[
+				307,
+				336
+			],
+			[
+				310,
+				339
+			],
+			[
+				312,
+				345
+			],
+			[
+				309,
+				347
+			],
+			[
+				311,
+				350
+			],
+			[
+				309,
+				352
+			],
+			[
+				305,
+				352
+			]
+		]
+	},
+	"center": {
+		"203-258": [
+			305,
+			343
+		]
+	}
+}
